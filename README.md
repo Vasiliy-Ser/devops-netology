@@ -22,9 +22,9 @@ crash.*.log
 6. Скрытый файл информации о временной блокировке  
 .terraform.tfstate.lock.info  
 7. Можно добавить Игнорировать вывод плана команды: terraform plan -out=tfplan содержащую в названии файла tfplan  
-# example: *tfplan*  
+ # example: *tfplan*  
 8. Файл конфигурации CLI terraform.rc и скрытый файл .terraformrc  
 .terraformrc  
 terraform.rc  
 9. Можно добавить файл переопределения используя скрытый шаблон. Сейчас он отключен.  
-# !example_override.tf      
+ # !example_override.tf      

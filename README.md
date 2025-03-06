@@ -17,4 +17,4 @@ Fops-27
 ---
 Используем PyCharm
 ---
-We are studying
+We are studying PyCharm
